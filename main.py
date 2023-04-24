@@ -2,6 +2,7 @@ import smtplib
 import colorama
 from os import system
 from colorama import Fore, Back, Style
+import getpass
 
 def main():
         
